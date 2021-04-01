@@ -75,7 +75,7 @@ p {
 }
 
 .card__first {
-  background-image: url("/images/bg-pattern-card.svg");
+  background-image: url("./images/bg-pattern-card.svg");
   height: 139px;
   width: 325px;
 }
