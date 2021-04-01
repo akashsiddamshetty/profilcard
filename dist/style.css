@@ -75,7 +75,7 @@ p {
 }
 
 .card__first {
-  background-image: url("./images/bg-pattern-card.svg");
+  background-image: url("https://raw.githubusercontent.com/akashsiddamshetty/profilcard/0e42098d8872de4ce87c21dc30e5e525e57e8917/images/bg-pattern-card.svg");
   height: 139px;
   width: 325px;
 }
